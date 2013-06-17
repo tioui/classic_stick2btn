@@ -16,7 +16,9 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
-This plugin permit to use the remote IR pointer as a relative axes.
+
+
+This plugin permit to use the sticks of the classic controller as buttons instead of axix.
 
 This cwiid plugin is base on the nunchuk_stick2btn plugins from L. Donnie Smith <donnie.smith@gatech.edu>
 
